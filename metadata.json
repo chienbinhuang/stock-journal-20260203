@@ -1,0 +1,5 @@
+{
+  "name": "台股交易覆盤筆記",
+  "description": "iPad 專用台股交易記錄與績效分析工具，支援自動計算稅費、FIFO 損益、年化報酬率及 Apple Numbers 匯出。",
+  "requestFramePermissions": []
+}
